@@ -1,0 +1,7 @@
+site_name: Power Platform Challenge
+site_url: https://www.powerplatformchallenge.com
+nav:
+  - Home: index.md
+  - Challenges: Challenges.md
+  - Discussion: https://github.com/miguelverweij/PowerPlatformChallenge/discussions
+theme: readthedocs
