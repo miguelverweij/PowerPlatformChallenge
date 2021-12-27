@@ -5,4 +5,4 @@ nav:
   - Challenges: Challenges.md
   - Discussion: https://github.com/miguelverweij/PowerPlatformChallenge/discussions
 theme: 
-  name: material
+  name: mkdocs
