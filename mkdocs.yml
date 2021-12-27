@@ -4,4 +4,5 @@ nav:
   - Home: index.md
   - Challenges: Challenges.md
   - Discussion: https://github.com/miguelverweij/PowerPlatformChallenge/discussions
-theme: readthedocs
+theme: 
+  name: material
