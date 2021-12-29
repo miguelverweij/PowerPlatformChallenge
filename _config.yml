@@ -14,7 +14,6 @@ theme: # leave it empty
 
 # social
 author: miguelverweij
-image: 
 twitter:
   username: miguelverweij
 
@@ -24,5 +23,3 @@ plugins:
 target-blank:
     rel: nofollow
 header_page_refs: ['Challenges', 'Discussions', 'Other']
-twitter:
-  username: miguelverweij
