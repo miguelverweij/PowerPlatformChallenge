@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ### Welcome
 
 Good to see you here! The Power Platform Challenge is here so you can grow your skills on this amazing low-code platform.
