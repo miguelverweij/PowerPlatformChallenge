@@ -50,9 +50,12 @@ You are now ready to use your model in a flow or app. Feel free to build whateve
 3. Add a camera control
 4. Set the stream rate to 100
 5. Add a button
-6. Put the following function in the onselect. 
+6. Put the following function in the OnSelect. 
 ``` Set(varFaceMaskOutput, 'Face Mask'.Predict(Camera1.Stream).Prediction)```
 7.  Add a label with varFaceMaskOutput as text
 8.  Select the Button
 
 Your app will now create an image and send it to the server to be analyzed. The label will show you the prediction. You can obviously make functionality in your app depending on the prediction. The technology is there. It is up to your creativity to implement it usefully.
+
+## Example solution
+You can [DOWNLOAD](/assets/Challenge001_1_0_0_0.zip) my example solution.
