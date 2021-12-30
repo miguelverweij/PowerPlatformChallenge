@@ -20,8 +20,11 @@ Developing an AI model means training and testing it. This used to be a time con
 6. Select Camera
 7. Name the label No Mask
 8. Take some selfies (5 minimum) while not wearing a face mask. PRO TIP: Keep the button pressed for bursting and move your head. The more images from multiple angles, the better the prediction will be.
-9. Select the Label and type Mask. A new label will be made.
-10. Grab a face mask and put it on.
-11. Again, take some selfies. This time you can skip the duck-face.
-12. Notice that while adding pictures Lobe starts training the model. Once it's done training you have created an AI model. It wasn't that hard right?
-13. Now that you have your model, you can start using it. You can directly export it to 
+
+![Lobe Training](/assets/LobeTraining.gif "Lobe Training")
+
+10. Select the Label and type Mask. A new label will be made.
+11. Grab a face mask and put it on.
+12. Again, take some selfies. This time you can skip the duck-face.
+13. Notice that while adding pictures Lobe starts training the model. Once it's done training you have created an AI model. It wasn't that hard right?
+14. Now that you have your model, you can start using it. You can directly export it to 
