@@ -1,8 +1,9 @@
-### Welcome
+## Welcome
+What a lovely surprise to see you here! The Power Platform Challenge is created for those interested in improving their low-code skills.
 
-Good to see you here! The Power Platform Challenge is here so you can grow your skills on this amazing low-code platform.
-Each month there will be a new challenge waiting for you. It ranges all over the Power Platform, so expect some challenges in areas you might not be familiar with, yet.
+## Challenges
+Each month I will share a new challenge. The challenges range all over the Power Platform. For some challenges we also use supporting software outside the Power Platform. All for you to get familiar with the wide range of tools and features that are helpful for you as a low-code developer.
 
-### Before you start
-It is highly recommended to use a sandbox tenant for these challenges. This gives you all the control over your tenant and any restrictions due to an organization policy will not be limiting.
-Just [join](https://developer.microsoft.com/en-us/microsoft-365/dev-program) the Microsoft Developer Program for free and all this sweetness will be yours.
+## Sharing is caring
+For each challenge there is a seperate GitHub discussion board available. Here you can ask for guidance if needed, or share your approach on solving the challenge.
+For those who have an idea for a challenge, please share it in the [Challenge ideas](https://github.com/miguelverweij/PowerPlatformChallenge/discussions/2) discussion board and maybe your idea will become a challenge.
