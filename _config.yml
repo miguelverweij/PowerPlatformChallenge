@@ -1,24 +1,2 @@
 title: Power Platform Challenge
 description: Challenges to learn and improve you low-code skills
-show_downloads: false
-
-url: "https://www.powerplatformchallenge.com" # change this to the base hostname & protocol for your site
-
-google_analytics: G-EQZ46DM4NN
-
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-theme: jekyll-theme-cayman
-
-# social
-author: miguelverweij
-twitter:
-  username: miguelverweij
-
-plugins:
-  - jekyll-target-blank
-
-target-blank:
-    rel: nofollow
-header_page_refs: ['Challenges', 'Discussions', 'Other']
