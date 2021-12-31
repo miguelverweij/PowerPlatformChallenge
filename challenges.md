@@ -8,4 +8,5 @@ It is highly recommended to enroll for the [MICROSOFT DEVELOPER PROGRAM](https:/
 
 ## Challenges
 
+Challenge link | Upload date | Topic
 [CHALLENGE 001](/challenges/challenge_001.md) | 2022-01 | Lobe
