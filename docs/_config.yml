@@ -13,7 +13,7 @@ google_analytics: G-EQZ46DM4NN
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-cayman-blog 
+theme: # jekyll-theme-cayman-blog 
 
 # social
 author: miguelverweij
