@@ -1,12 +1,12 @@
 title: Power Platform Challenge
 description: Improve your low-code skills by executing fun challenges
-show_downloads: false
+show_downloads: true
 
-baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: ""  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://www.powerplatformchallenge.com" # change this to the base hostname & protocol for your site
 
 
-google_analytics:
+google_analytics: G-EQZ46DM4NN
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -23,6 +23,7 @@ twitter:
 
 plugins:
   - jekyll-target-blank
+  - jekyll-seo-tag
 
 target-blank:
     rel: nofollow
