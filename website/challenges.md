@@ -1,3 +1,11 @@
+---
+layout: page
+title: Challenges
+tagline: Find all the challenges created
+ref: challenges
+order: 1
+---
+
 ## Challenges
 
 Here is all the sweetness. Each month a new challenge will be added.
@@ -9,4 +17,4 @@ It is highly recommended to enroll for the [MICROSOFT DEVELOPER PROGRAM](https:/
 ## Challenges
 
 Challenge link | Upload date | Topic
-[CHALLENGE 001](/challenges/challenge_001.md) | 2022-01 | Lobe
+[CHALLENGE 001](/_posts/challenge_001.md) | 2022-01-01 | Lobe

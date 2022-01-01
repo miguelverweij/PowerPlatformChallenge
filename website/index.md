@@ -1,3 +1,13 @@
+---
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
+
 ## Welcome
 What a lovely surprise to see you here! The Power Platform Challenge is created for those interested in improving their low-code skills.
 
