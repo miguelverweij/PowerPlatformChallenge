@@ -13,7 +13,7 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # jekyll-theme-cayman 
+theme: jekyll-theme-cayman-blog 
 
 # social
 author: miguelverweij
@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['challenges', 'discussions' , 'about']
+header_page_refs: ['challenges', [discussions](https://github.com/miguelverweij/PowerPlatformChallenge/discussions) , 'about']
