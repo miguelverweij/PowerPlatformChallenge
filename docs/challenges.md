@@ -6,8 +6,6 @@ ref: challenges
 order: 1
 ---
 
-## Challenges
-
 Here is all the sweetness. Each month a new challenge will be added.
 
 ## Before you start

@@ -9,7 +9,6 @@ layout: home
 title: Power Platform Challenge
 ---
 
-## Welcome
 What a lovely surprise to see you here! The Power Platform Challenge is created for those interested in improving their low-code skills.
 
 ## Challenges
