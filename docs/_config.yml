@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['challenges', [discussions](https://github.com/miguelverweij/PowerPlatformChallenge/discussions) , 'about']
+header_page_refs: ['challenges', 'discussions' , 'about']
