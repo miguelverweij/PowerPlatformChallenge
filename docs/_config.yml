@@ -21,7 +21,7 @@ image: /thumbnail-jumbo.png
 twitter:
   username: miguelverweij
 linkedin:
-  username: miguel-verweij-869965218
+  username: miguel-verweij
 
 plugins:
   - jekyll-target-blank
