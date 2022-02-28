@@ -20,6 +20,8 @@ author: miguelverweij
 image: /thumbnail-jumbo.png
 twitter:
   username: miguelverweij
+linkedin:
+  username: miguel-verweij-869965218
 
 plugins:
   - jekyll-target-blank
