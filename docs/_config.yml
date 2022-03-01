@@ -22,8 +22,6 @@ twitter:
   username: miguelverweij
 linkedin:
   username: miguel-verweij
-disqus: 
-  shortname: powerplatformchallenge
 
 plugins:
   - jekyll-target-blank
