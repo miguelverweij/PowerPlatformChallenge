@@ -22,6 +22,8 @@ twitter:
   username: miguelverweij
 linkedin:
   username: miguel-verweij
+buymeacoffee:
+  username: miguelverweij
 
 plugins:
   - jekyll-target-blank
