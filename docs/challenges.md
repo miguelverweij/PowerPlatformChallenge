@@ -18,10 +18,11 @@ If you want to use premium functionality, additional licenses are required. You 
 
 ## Challenges
 
-Challenge link | Upload date | Topic
+**Challenge link** | **Upload date** | **Topic**
 [CHALLENGE 001](/_posts/2022-01-01-challenge-001.md) | 2022-01-01 | Lobe
 [CHALLENGE 002](/_posts/2022-02-01-challenge-002.md) | 2022-02-01 | GitHub Source Control
 [CHALLENGE 003](/_posts/2022-03-01-challenge-003.md) | 2022-03-01 | ALM & GitHub Actions
 [CHALLENGE 004](/_posts/2022-04-01-challenge-004.md) | 2022-04-01 | Custom Connectors & Independent Publisher
 [CHALLENGE 005](/_posts/2022-05-01-challenge-005.md) | 2022-05-01 | Adaptive Cards
 [CHALLENGE 006](/_posts/2022-06-01-challenge-006.md) | 2022-06-01 | Azure & IoT
+[CHALLENGE 007](/_posts/2022-07-01-challenge-007.md) | 2022-07-01 | Fluent UI Creator Kit
