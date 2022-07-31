@@ -26,3 +26,4 @@ If you want to use premium functionality, additional licenses are required. You 
 [CHALLENGE 005](/_posts/2022-05-01-challenge-005.md) | 2022-05-01 | Adaptive Cards
 [CHALLENGE 006](/_posts/2022-06-01-challenge-006.md) | 2022-06-01 | Azure & IoT
 [CHALLENGE 007](/_posts/2022-07-01-challenge-007.md) | 2022-07-01 | Fluent UI Creator Kit
+[CHALLENGE 008](/_posts/2022-08-01-challenge-008.md) | 2022-08-01 | Responsive Apps
